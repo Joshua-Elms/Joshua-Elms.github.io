@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Simple tree icon — matches the sage green accent color -->
+  <!-- Canopy layers -->
+  <ellipse cx="50" cy="38" rx="28" ry="22" fill="#7D9B76"/>
+  <ellipse cx="50" cy="28" rx="20" ry="18" fill="#8DAE86"/>
+  <ellipse cx="50" cy="20" rx="12" ry="13" fill="#A8C4A0"/>
+  <!-- Trunk -->
+  <rect x="44" y="56" width="12" height="22" rx="3" fill="#8B7355"/>
+  <!-- Ground -->
+  <ellipse cx="50" cy="80" rx="22" ry="5" fill="#D5E8D4"/>
+</svg>
