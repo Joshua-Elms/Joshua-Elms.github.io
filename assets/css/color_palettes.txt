@@ -1,0 +1,32 @@
+# Because CSS commenting works oddly, I'm just using this as a place to store spare copies of the color scheme
+
+To switch the entire site's coloration, choose one of the below sets and copy into style.css lines 14-25.
+
+TBH this doesn't change much, it's a veeeery light background color. 
+
+  /* --- Colors (light green) --- */
+  --bg:           #FAF9F6;   /* warm off-white page background         */
+  --bg-alt:       #F0EDE6;   /* slightly darker background for cards   */
+  --bg-nav:       #FFFFFF;   /* navbar background                      */
+  --text:         #2C3E2D;   /* primary text — dark forest green       */
+  --text-light:   #5A6B5C;   /* secondary text — muted green-gray      */
+  --accent:       #7D9B76;   /* sage green — links, buttons, borders   */
+  --accent-hover: #5E7D57;   /* darker sage for hover states           */
+  --accent-light: #D5E8D4;   /* light mint — subtle highlights         */
+  --warm:         #E8DCC8;   /* beige — borders, dividers              */
+  --cool:         #D4E4ED;   /* light blue — secondary highlights      */
+  --white:        #FFFFFF;
+
+
+  /* --- Colors (light blue) — swap with the block above to switch themes --- */
+  --bg:           #F7F9FC;   /* cool off-white page background          */
+  --bg-alt:       #EDF1F7;   /* slightly darker background for cards    */
+  --bg-nav:       #FFFFFF;   /* navbar background                       */
+  --text:         #2B3544;   /* primary text — dark slate blue          */
+  --text-light:   #5A6578;   /* secondary text — muted blue-gray        */
+  --accent:       #6B8EB5;   /* dusty blue — links, buttons, borders    */
+  --accent-hover: #4E7199;   /* deeper blue for hover states            */
+  --accent-light: #D4E1EE;   /* pale sky — subtle highlights            */
+  --warm:         #D1D8E0;   /* cool gray — borders, dividers           */
+  --cool:         #C8DBE8;   /* soft blue — secondary highlights        */
+  --white:        #FFFFFF;

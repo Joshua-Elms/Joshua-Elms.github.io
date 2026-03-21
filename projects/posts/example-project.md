@@ -4,7 +4,7 @@ This is a sample project post to demonstrate how the markdown rendering works.
 
 ## Overview
 
-Write a brief description of your project here. What problem does it solve? Why did you build it?
+Write a brief description of your project here [^1]. What problem does it solve? Why did you build it? [^2]
 
 ## Technical Details
 
@@ -40,3 +40,6 @@ Describe your findings, include images, charts, or tables.
 ---
 
 *Replace this file with your own project writeup.*
+
+[^1]: This is my first footnote
+[^2]: This is my second footnote
